@@ -102,3 +102,9 @@ ros2 launch ohms_robot_comms_manager atlas_ohms_robot_comms_publisher.launch.py
 ```
 
 This will start the node.
+
+### **Octomap**
+
+```
+ros2 launch octomap_server2 atlas_octomap_server_launch.py  
+```
